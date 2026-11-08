@@ -1,0 +1,20 @@
+# node
+node_modules/
+npm-debug.log*
+
+# build
+client/dist/
+
+# dane runtime (użytkownicy, zadania, chat)
+data/
+
+# konfiguracja lokalna
+.env
+.env.local
+
+# system / edytory
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
